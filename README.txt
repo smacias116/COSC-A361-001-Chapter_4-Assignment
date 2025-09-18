@@ -1,0 +1,1 @@
+Folder [_one_file_version] stores file [myCompiler.cpp] which includes all the files integrated in a single .cpp.
